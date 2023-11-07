@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html ng-app="getExample">
+<head>
+    <title>Angular HTTP get function example</title>
+	<meta charset="utf-8" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <script src="js/bootstrap.min.js"></script>
+</head>
+<body ng-controller="booksCtrl">
+    <div class="container">
+        <div class="row">
+            <input type="button" 
+                   class="btn-primary" 
+                   value="Show C# books"
+                   name="showBooks"
+                   ng-click="showBooks()"/>
+        </div>
+        <br />
+        <div class="row">
+            <table class="table table-striped">
+                <tr ng-repeat="book in books">
+                    <td>{{ book.id }}. {{ book.title }}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <script src="js/angular1.4.7.min.js"></script>
+    <script src="js/App.js"></script>
+</body>
+</html>

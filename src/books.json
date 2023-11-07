@@ -1,0 +1,13 @@
+﻿[
+    { "id": "1","title": "Teach yourself the C# language in 21 days" },
+    { "id": "2","title": "C# for Java Programmers" },
+    { "id": "3","title": "Thinking in C#" },
+    { "id": "4","title": "C# Bible" },
+    { "id": "5","title": "C# A Primer Practical Approach" },
+    { "id": "6","title": "C# 2005 for Dummies" },
+    { "id": "7","title": "Beginning C# Game Programming" },
+    { "id": "8","title": "C# 2.0 Practical Guide for programmers" },
+    { "id": "9","title": "C# 2005 Recipes a Problem Solution" },
+    { "id": "10","title": "Pro .NET 2.0 Code an designs Standars in C#" },
+    { "id": "11","title": "C# 3.0 Beginners Guide" }
+]

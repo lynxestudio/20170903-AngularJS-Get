@@ -19,18 +19,10 @@
         <div>
         <IMG src="images/json.png">
         </div><br>
-        <div><b>Fig 2. The source code for the app.js</b></div><br>
-        <div>
-        <IMG src="images/app.png">
-        </div><br>
         <p align="justify">
         In the previous example the controller defines a dependency to the <i>$scope</i> and the <i>$http</i> module. An HTTP GET request to the data “books.json” endpoint is carried out with the get method. It returns a $promise object with a success and error method.
         </p>
-        <div><b>Fig 3. The code for the web page</b></div><br>
-        <div>
-        <IMG src="images/index.png">
-        </div><br>
-        <div><b>Fig 4. Running the example</b></div><br>
+        <div><b>Fig 2. Running the example</b></div><br>
         <div>
         <IMG src="images/edge.png">
 </div><br>
